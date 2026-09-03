@@ -1,0 +1,10 @@
+{
+  "user_task_1:send_direct_message": {
+    "user_task_id": "user_task_1",
+    "required_tool": "send_direct_message"
+  },
+  "user_task_11:invite_user_to_slack": {
+    "user_task_id": "user_task_11",
+    "required_tool": "invite_user_to_slack"
+  }
+}
